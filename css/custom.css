@@ -1,0 +1,237 @@
+/* Example - affects h3 within class="example" */
+.example h3 {
+    margin-top: 0px;
+    margin-bottom: 5px;
+    /* text-transform: uppercase; */
+    border: 1px solid green;
+}
+
+body {
+    font-size: 14px;
+    line-height: 1.5;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+body p {
+    font-size: 14px;
+    line-height: 1.5;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: justify;
+}
+
+body p + p {
+    margin: 10px 0px 10px 0px;
+}
+
+p + h1,
+p + h2,
+p + h3,
+p + h4,
+p + h5,
+p + h6
+    {
+    margin-top: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.home-box {
+    /* background-color:#cccccc; */
+    
+    margin-left: auto;
+    margin-right: auto;
+    /* width:94%;  */
+    padding:5px;
+    border-radius: 3px;
+
+    margin-bottom: 0px;
+
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+
+    /* border: 1px solid green; */
+
+}
+
+.home-box h1, 
+.home-box h2, 
+.home-box h3, 
+.home-box h4 {
+    margin-top: 5px;
+}
+
+
+
+.credit-box {
+    /* background-color:#FFF; */
+    
+    margin-left: auto;
+    margin-right: auto;
+    width:94%; 
+    padding:5px;
+    border-radius: 3px;
+
+    margin-bottom: 5px;
+
+    font-family: 'Roboto', sans-serif;
+
+    /* border: 1px solid green; */
+}
+
+.show-title {
+    float: none;
+    width: 60%;
+    font-variant: small-caps;
+    font-size: 20px;
+    line-height: 1.2;
+    /* font-weight: bold; */
+    padding-bottom: 0px;
+
+    /* border: 1px solid red; */
+}
+  
+.show-role {
+    
+    float: right;
+    width: 35%;
+    text-align: right;
+    font-variant: small-caps;
+    font-size: 20px;
+    line-height: 1.2;
+    /* font-weight: bold; */
+    
+    /* border: 1px solid blue; */
+}
+  
+.show-details {
+    float: none;
+    width: 60%;
+    font-size: 12px;
+    line-height: 1.2;
+    /* margin-top: 30px; */
+    padding-top: 3px;
+    padding-bottom: 3px;
+
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.credit-list {
+    margin-top: 0px; 
+    margin-bottom: 0px;
+
+    font-size: 14px;
+    line-height: 1.2;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.about-text {
+    padding-top: 3px;
+    padding-bottom: 3px;
+
+    font-family: 'Roboto Condensed', sans-serif;
+    /* text-align: justify; */
+    /* border: 1px solid blue; */
+}
+
+.about-text h1,
+.about-text h2,
+.about-text h3,
+.about-text h4,
+.about-text h5,
+.about-text h6 {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.about-text p {
+    font-size: 14px;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+.about-text p + p {
+    margin: 10px 0px 10px 0px;
+    text-align: justify;
+}
+
+.about-image {
+    float:left;
+    width: 50%;
+
+    /* top right bottom left */
+    padding: 12px 20px 12px 0px;
+
+    /* border: 1px solid green; */
+}
+
+.post-preview .post-title {
+    font-size: 26px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.post-preview .post-subtitle {
+    font-size: 18px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.post-preview .post-meta {
+    font-size: 14px;
+    font-family: 'Roboto Condensed', sans-serif;
+    /* text-align: right; */
+}
+
+.post-preview .post-entry {
+    font-size: 12px;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: justify;
+}
+
+.post-preview .blog-tags {
+    font-size: 14px;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: right;
+}
+
+
+.post-heading h1 {
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+}
+
+.post-subheading {
+    font-size: 20px;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+    font-style: italic;
+    font-weight: 500;
+}
+
+.post-heading .post-meta {
+    font-size: 14px;
+    font-family: 'Roboto Condensed', sans-serif;
+    /* text-align: center; */
+    /* align-content: center; */
+    /* border: 1px solid green; */
+}
+
+.post-heading {
+    text-align: center;
+}
+
+.header-section .tags-heading h1 {
+    font-size: 36px;
+    /* font-family: 'Roboto Condensed', sans-serif; */
+    text-align: left;
+    /* font-weight: 500; */
+
+    margin-top: 5px; 
+    margin-bottom: 5px;
+}
+
+.header-section .tags-heading h2 {
+    font-size: 20px;
+    /* font-family: 'Roboto Condensed', sans-serif; */
+    text-align: left;
+    font-weight: 500;
+
+    margin-top: 5px; 
+    margin-bottom: 5px;
+}
