@@ -2,12 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://argyllrb.github.io/drafts/210511_about_blurb/</loc>
-    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://argyllrb.github.io/drafts/</loc>
-    <lastmod>2021-05-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://argyllrb.github.io/tags/recording/</loc>
     <lastmod>2021-05-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -40,9 +34,6 @@
   </url><url>
     <loc>https://argyllrb.github.io/sounds/</loc>
     <lastmod>2021-04-07T18:24:31+01:00</lastmod>
-  </url><url>
-    <loc>https://argyllrb.github.io/articles/00_initial-post/</loc>
-    <lastmod>2021-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://argyllrb.github.io/categories/</loc>
   </url>

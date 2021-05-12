@@ -20,14 +20,5 @@
 Zombies, Run! is a running app that mixes an audio adventure with your music. It places you in the shoes of ‘Runner 5’ as you collect supplies for your settlement and investigate the real story behind the zombie apocalypse. Headphones are recommended but not essential.</description>
     </item>
     
-    <item>
-      <title>Initial Post</title>
-      <link>https://argyllrb.github.io/articles/00_initial-post/</link>
-      <pubDate>Wed, 07 Apr 2021 00:00:00 +0000</pubDate>
-      <author>richard@richardbell.uk (Richard Bell)</author>
-      <guid>https://argyllrb.github.io/articles/00_initial-post/</guid>
-      <description>This is the first post on the blog and acts as a template.</description>
-    </item>
-    
   </channel>
 </rss>
