@@ -1,24 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sound design on Richard Bell || Sound Design</title>
+    <title>Sound Design on Richard Bell || Sound Design</title>
     <link>https://www.richardbell.uk/tags/sound-design/</link>
-    <description>Recent content in sound design on Richard Bell || Sound Design</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Sound Design on Richard Bell || Sound Design</description>
+    <generator>Hugo</generator>
     <language>en-gb</language>
     <managingEditor>info@richardbell.uk (Richard Bell)</managingEditor>
     <webMaster>info@richardbell.uk (Richard Bell)</webMaster>
-    <lastBuildDate>Mon, 10 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.richardbell.uk/tags/sound-design/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.richardbell.uk/tags/sound-design/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zombies, Run!</title>
       <link>https://www.richardbell.uk/articles/2014-01-01_zombiesrun/</link>
-      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
-      <author>info@richardbell.uk (Richard Bell)</author>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate><author>info@richardbell.uk (Richard Bell)</author>
       <guid>https://www.richardbell.uk/articles/2014-01-01_zombiesrun/</guid>
-      <description>Article originally published in 2014.
-Below are a few clips from my sound design for Zombies, Run! uploaded with permission from Six to Start .
-Zombies, Run! is a running app that mixes an audio adventure with your music. It places you in the shoes of ‘Runner 5’ as you collect supplies for your settlement and investigate the real story behind the zombie apocalypse.</description>
+      <description>&lt;p&gt;&lt;em&gt;Article originally published in 2014.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Below are a few clips from my sound design for &#xA;&lt;a href = https://zombiesrungame.com/ target = &#34;_blank&#34;&gt;Zombies, Run!&lt;/a&gt;&#xA; uploaded with permission from &#xA;&lt;a href = https://www.sixtostart.com/ target = &#34;_blank&#34;&gt;Six to Start&lt;/a&gt;&#xA;.&lt;/p&gt;&#xA;&lt;p&gt;Zombies, Run! is a running app that mixes an audio adventure with your music. It places you in the shoes of ‘Runner 5’ as you collect supplies for your settlement and investigate the real story behind the zombie apocalypse. Headphones are recommended but not essential.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

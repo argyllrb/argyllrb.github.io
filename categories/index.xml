@@ -4,9 +4,10 @@
     <title>Categories on Richard Bell || Sound Design</title>
     <link>https://www.richardbell.uk/categories/</link>
     <description>Recent content in Categories on Richard Bell || Sound Design</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-gb</language>
     <managingEditor>info@richardbell.uk (Richard Bell)</managingEditor>
-    <webMaster>info@richardbell.uk (Richard Bell)</webMaster><atom:link href="https://www.richardbell.uk/categories/index.xml" rel="self" type="application/rss+xml" />
+    <webMaster>info@richardbell.uk (Richard Bell)</webMaster>
+    <atom:link href="https://www.richardbell.uk/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

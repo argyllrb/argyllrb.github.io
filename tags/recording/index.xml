@@ -1,23 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>recording on Richard Bell || Sound Design</title>
+    <title>Recording on Richard Bell || Sound Design</title>
     <link>https://www.richardbell.uk/tags/recording/</link>
-    <description>Recent content in recording on Richard Bell || Sound Design</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Recording on Richard Bell || Sound Design</description>
+    <generator>Hugo</generator>
     <language>en-gb</language>
     <managingEditor>info@richardbell.uk (Richard Bell)</managingEditor>
     <webMaster>info@richardbell.uk (Richard Bell)</webMaster>
-    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.richardbell.uk/tags/recording/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 May 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.richardbell.uk/tags/recording/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recording The Breakfast Plays</title>
       <link>https://www.richardbell.uk/articles/2020-09-01_breakfastplays/</link>
-      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate>
-      <author>info@richardbell.uk (Richard Bell)</author>
+      <pubDate>Tue, 11 May 2021 00:00:00 +0000</pubDate><author>info@richardbell.uk (Richard Bell)</author>
       <guid>https://www.richardbell.uk/articles/2020-09-01_breakfastplays/</guid>
-      <description>The following piece was written in August 2020 following my work on The Breakfast Plays for Traverse Theatre and was originally published as part of the Traverse blog .
-The Breakfast Plays are part of the Traverse&amp;rsquo;s creative development programme for writers and are normally performed for Festival audiences throughout August.</description>
+      <description>&lt;p&gt;&lt;em&gt;The following piece was written in August 2020 following my work on The Breakfast Plays for Traverse Theatre and was originally published as part of the &#xA;&lt;a href = https://www.traverse.co.uk/news/taking-the-breakfast-plays-new-tracks-from-page-to-audio-stage target = &#34;_blank&#34;&gt;Traverse blog&lt;/a&gt;&#xA;.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;The Breakfast Plays are part of the Traverse&amp;rsquo;s creative development programme for writers and are normally performed for Festival audiences throughout August. 2020 was a little different and required a new approach given the closure of theatres during the COVID-19 pandemic. The Traverse approached me to help them to record the scripts for audio production, with everyone involved working remotely from home.&lt;/em&gt;&#xA;&lt;em&gt;This was new ground for all involved and presented a number of challenges, some of which I discuss below.&lt;/em&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
